@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=satyansh86" alt="satyansh86" /></a> </p>
 
-- 🔭 I’m currently working **Blockchain Projects**
+- 🔭 I’m currently working **on Blockchain Projects**
 
 - 🌱 I’m currently learning **Node.js**
 
 - 📫 How to reach me **satyansh86@gmail.com**
 
-- ⚡ Fun fact **I love binge-watching movies anytime**
+- ⚡ Fun fact: **I love binge-watching movies anytime**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
